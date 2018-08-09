@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ninadranbhare
+Build-Jdk: 9.0.1
+Implementation-Title: cme-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.eca.cme
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cme-web
+Created-By: Maven Integration for Eclipse
+
